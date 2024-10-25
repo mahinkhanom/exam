@@ -1,2 +1,2 @@
 # exam
- https://mahinkhanom.github.io/js-xm-2/
+https://github.com/mahinkhanom/js-exam-2.git
